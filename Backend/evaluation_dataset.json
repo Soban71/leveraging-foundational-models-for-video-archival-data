@@ -1,0 +1,1191 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "Children taking part in creative art activities",
+    "ground_truth": [
+      "1. Launch of Belfast Children's Festival 2016 280116_clip_3",
+      "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_9"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "1. Launch of Belfast Children's Festival 2016 280116_clip_3",
+        "video_path": "clips\\1. Launch of Belfast Children's Festival 2016 280116_clip_3.mp4",
+        "start_time_seconds": 60.0,
+        "end_time_seconds": 90.0
+      },
+      {
+        "clip_id": "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_9",
+        "video_path": "clips\\6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_9.mp4",
+        "start_time_seconds": 240.0,
+        "end_time_seconds": 270.0
+      }
+    ]
+  },
+
+  {
+  "query_id": "Q02",
+  "query": "Children taking part in indoor festival games and activities",
+  "ground_truth": [
+    "1. Launch of Belfast Children's Festival 2016 280116_clip_2",
+    "1. Launch of Belfast Children's Festival 2016 280116_clip_9",
+    "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_15"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "1. Launch of Belfast Children's Festival 2016 280116_clip_2",
+      "video_path": "clips\\1. Launch of Belfast Children's Festival 2016 280116_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    },
+    {
+      "clip_id": "1. Launch of Belfast Children's Festival 2016 280116_clip_9",
+      "video_path": "clips\\1. Launch of Belfast Children's Festival 2016 280116_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    },
+    {
+      "clip_id": "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_15",
+      "video_path": "clips\\6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_15.mp4",
+      "start_time_seconds": 420.0,
+      "end_time_seconds": 450.0
+    }
+  ]
+},
+  {
+    "query_id": "Q03",
+    "query": "Cars moving through busy city streets",
+    "ground_truth": [
+      
+      "42. Traffic Congestion in Belfast City Centre 010916_clip_3",
+      "42. Traffic Congestion in Belfast City Centre 010916_clip_5"
+  
+    ],
+    "relevant_clips": [
+     
+      {
+        "clip_id": "42. Traffic Congestion in Belfast City Centre 010916_clip_3",
+        "video_path": "clips\\42. Traffic Congestion in Belfast City Centre 010916_clip_3.mp4",
+        "start_time_seconds": 60.0,
+        "end_time_seconds": 90.0
+      },
+      {
+        "clip_id": "42. Traffic Congestion in Belfast City Centre 010916_clip_5",
+        "video_path": "clips\\42. Traffic Congestion in Belfast City Centre 010916_clip_5.mp4",
+        "start_time_seconds": 120.0,
+        "end_time_seconds": 150.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q04",
+  "query": "People teaching, performing and interacting with groups",
+  "ground_truth": [
+    "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_13",
+    "13. Reading Rooms at Open University 150416_clip_4",
+    "1. Launch of Belfast Children's Festival 2016 280116_clip_4",
+    "48. Shankill Arts Forum 290916_clip_1"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_13",
+      "video_path": "clips\\6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_13.mp4",
+      "start_time_seconds": 360.0,
+      "end_time_seconds": 390.0
+    },
+    {
+      "clip_id": "13. Reading Rooms at Open University 150416_clip_4",
+      "video_path": "clips\\13. Reading Rooms at Open University 150416_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    },
+    {
+      "clip_id": "1. Launch of Belfast Children's Festival 2016 280116_clip_4",
+      "video_path": "clips\\1. Launch of Belfast Children's Festival 2016 280116_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    },
+    {
+      "clip_id": "48. Shankill Arts Forum 290916_clip_1",
+      "video_path": "clips\\48. Shankill Arts Forum 290916_clip_1.mp4",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 30.0
+    }
+  ]
+},
+  {
+  "query_id": "Q05",
+  "query": "Interviews recorded inside offices",
+  "ground_truth": [
+    "13. Reading Rooms at Open University 150416_clip_9",
+    "8. REFRESH- PSNI Young Digital Team 230316_clip_5"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "13. Reading Rooms at Open University 150416_clip_9",
+      "video_path": "clips\\13. Reading Rooms at Open University 150416_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    },
+    {
+      "clip_id": "8. REFRESH- PSNI Young Digital Team 230316_clip_5",
+      "video_path": "clips\\8. REFRESH- PSNI Young Digital Team 230316_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    }
+  ]
+},
+  {
+  "query_id": "Q06",
+  "query": "A blue plaque on a building",
+  "ground_truth": [
+    "2. Belfast's City Council - Step Up To Learn Programme 280116_clip_4",
+    "25. Blue Plaque Unveiling 010716_clip_5",
+    "12. Oliver Pollock Blue Plaque Unveiling 150416_clip_7"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "2. Belfast's City Council - Step Up To Learn Programme 280116_clip_4",
+      "video_path": "clips\\2. Belfast's City Council - Step Up To Learn Programme 280116_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    },
+    {
+      "clip_id": "25. Blue Plaque Unveiling 010716_clip_5",
+      "video_path": "clips\\25. Blue Plaque Unveiling 010716_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    },
+    {
+      "clip_id": "12. Oliver Pollock Blue Plaque Unveiling 150416_clip_7",
+      "video_path": "clips\\12. Oliver Pollock Blue Plaque Unveiling 150416_clip_7.mp4",
+      "start_time_seconds": 180.0,
+      "end_time_seconds": 210.0
+    }
+  ]
+},
+  {
+    "query_id": "Q07",
+    "query": "A bronze statue of a boxer outdoors",
+    "ground_truth": [
+      "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_2"
+      
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_2",
+        "video_path": "clips\\33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_2.mp4",
+        "start_time_seconds": 30.0,
+        "end_time_seconds": 60.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q08",
+  "query": "Paintings displayed inside an art gallery",
+  "ground_truth": [
+    "38. ArtisAnn Art Gallery 090816_clip_2",
+    "48. Shankill Arts Forum 290916_clip_5"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "38. ArtisAnn Art Gallery 090816_clip_2",
+      "video_path": "clips\\38. ArtisAnn Art Gallery 090816_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    },
+    {
+      "clip_id": "48. Shankill Arts Forum 290916_clip_5",
+      "video_path": "clips\\48. Shankill Arts Forum 290916_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    }
+  ]
+},
+ {
+  "query_id": "Q09",
+  "query": "Students participating in classroom or school workshop activities",
+  "ground_truth": [
+    "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_13",
+    "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_9",
+    "49. Arabic in Northern Ireland Schools 290916_clip_11"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_13",
+      "video_path": "clips\\6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_13.mp4",
+      "start_time_seconds": 360.0,
+      "end_time_seconds": 390.0
+    },
+    {
+      "clip_id": "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_9",
+      "video_path": "clips\\6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    },
+    {
+      "clip_id": "49. Arabic in Northern Ireland Schools 290916_clip_11",
+      "video_path": "clips\\49. Arabic in Northern Ireland Schools 290916_clip_11.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    }
+  ]
+},
+  {
+  "query_id": "Q10",
+  "query": "Houses in a residential neighbourhood",
+  "ground_truth": [
+    "32. Social Housing 010816_clip_3",
+    "43. Market Tunnels 050916_clip_5"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "32. Social Housing 010816_clip_3",
+      "video_path": "clips\\32. Social Housing 010816_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    },
+    {
+      "clip_id": "43. Market Tunnels 050916_clip_5",
+      "video_path": "clips\\43. Market Tunnels 050916_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    }
+  ]
+},
+
+  {
+    "query_id": "Q11",
+    "query": "Shoes displayed during an outdoor demonstration",
+    "ground_truth": [
+      
+      "47. Millions Missing Demonstration 290916_clip_14"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "47. Millions Missing Demonstration 290916_clip_14",
+        "video_path": "clips\\47. Millions Missing Demonstration 290916_clip_14.mp4",
+        "start_time_seconds": 360.0,
+        "end_time_seconds": 390.0
+      }
+      
+    ]
+  },
+
+
+ {
+  "query_id": "Q12",
+  "query": "People being interviewed outdoors at a memorial event",
+  "ground_truth": [
+    "19. George McBride 100516_clip_7",
+    "17. Belfast Telegraph 100516_clip_11",
+    "7. Adrian Ismay Vigil 230316_clip_7",
+    "47. Millions Missing Demonstration 290916_clip_3"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "19. George McBride 100516_clip_7",
+      "video_path": "clips\\19. George McBride 100516_clip_7.mp4",
+      "start_time_seconds": 180.0,
+      "end_time_seconds": 210.0
+    },
+    {
+      "clip_id": "17. Belfast Telegraph 100516_clip_11",
+      "video_path": "clips\\17. Belfast Telegraph 100516_clip_11.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    },
+    {
+      "clip_id": "7. Adrian Ismay Vigil 230316_clip_7",
+      "video_path": "clips\\7. Adrian Ismay Vigil 230316_clip_7.mp4",
+      "start_time_seconds": 180.0,
+      "end_time_seconds": 210.0
+    },
+    {
+      "clip_id": "47. Millions Missing Demonstration 290916_clip_3",
+      "video_path": "clips\\47. Millions Missing Demonstration 290916_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    }
+  ]
+},
+  {
+    "query_id": "Q13",
+    "query": "Police officers being interviewed beside office displays",
+    "ground_truth": [
+      "8. REFRESH- PSNI Young Digital Team 230316_clip_7"
+     
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "8. REFRESH- PSNI Young Digital Team 230316_clip_7",
+        "video_path": "clips\\8. REFRESH- PSNI Young Digital Team 230316_clip_7.mp4",
+        "start_time_seconds": 210.0,
+        "end_time_seconds": 240.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q14",
+  "query": "People seated around a meeting table",
+  "ground_truth": [
+    "8. REFRESH- PSNI Young Digital Team 230316_clip_5",
+    "13. Reading Rooms at Open University 150416_clip_4",
+    "13. Reading Rooms at Open University 150416_clip_1"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "8. REFRESH- PSNI Young Digital Team 230316_clip_5",
+      "video_path": "clips\\8. REFRESH- PSNI Young Digital Team 230316_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    },
+    {
+      "clip_id": "13. Reading Rooms at Open University 150416_clip_4",
+      "video_path": "clips\\13. Reading Rooms at Open University 150416_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    },
+    {
+      "clip_id": "13. Reading Rooms at Open University 150416_clip_1",
+      "video_path": "clips\\13. Reading Rooms at Open University 150416_clip_1.mp4",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 30.0
+    }
+  ]
+},
+ {
+  "query_id": "Q15",
+  "query": "Driving a car in cloudy weather",
+  "ground_truth": [
+    "42. Traffic Congestion in Belfast City Centre 010916_clip_4"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "42. Traffic Congestion in Belfast City Centre 010916_clip_4",
+      "video_path": "clips\\42. Traffic Congestion in Belfast City Centre 010916_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    }
+  ]
+},
+
+{
+  "query_id": "Q16",
+  "query": "People attending and browsing at a book launch",
+  "ground_truth": [
+    "10. Jacobin Launch 230316_clip_5",
+    "10. Jacobin Launch 230316_clip_6",
+    "36. Tourette Alliance First Annual Conference 090816_clip_11"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "10. Jacobin Launch 230316_clip_5",
+      "video_path": "clips\\10. Jacobin Launch 230316_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    },
+    {
+      "clip_id": "10. Jacobin Launch 230316_clip_6",
+      "video_path": "clips\\10. Jacobin Launch 230316_clip_6.mp4",
+      "start_time_seconds": 150.0,
+      "end_time_seconds": 180.0
+    },
+    {
+      "clip_id": "36. Tourette Alliance First Annual Conference 090816_clip_11",
+      "video_path": "clips\\36. Tourette Alliance First Annual Conference 090816_clip_11.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    }
+  ]
+},
+
+
+ {
+  "query_id": "Q17",
+  "query": "A speaker addressing an audience at a festival or launch event",
+  "ground_truth": [
+    "30. Social Policy Association 200716_clip_15",
+    "28. Feile an Phobail launch 010716_clip_5",
+    "28. Feile an Phobail launch 010716_clip_10"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "30. Social Policy Association 200716_clip_15",
+      "video_path": "clips\\30. Social Policy Association 200716_clip_15.mp4",
+      "start_time_seconds": 420.0,
+      "end_time_seconds": 450.0
+    },
+    {
+      "clip_id": "28. Feile an Phobail launch 010716_clip_5",
+      "video_path": "clips\\28. Feile an Phobail launch 010716_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    },
+    {
+      "clip_id": "28. Feile an Phobail launch 010716_clip_10",
+      "video_path": "clips\\28. Feile an Phobail launch 010716_clip_10.mp4",
+      "start_time_seconds": 270.0,
+      "end_time_seconds": 300.0
+    }
+  ]
+},
+  {
+  "query_id": "Q18",
+  "query": "Books displayed at an indoor event",
+  "ground_truth": [
+    "26. Sixteen South 010716_clip_5"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "26. Sixteen South 010716_clip_5",
+      "video_path": "clips\\26. Sixteen South 010716_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    }
+  ]
+},
+  {
+  "query_id": "Q19",
+  "query": "Two men seated and discussing in a television studio",
+  "ground_truth": [
+    "16. Political Special 020516_clip_21",
+    "16. Political Special 020516_clip_22",
+    "24. Fairtrade Campaign 070616_clip_8"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "16. Political Special 020516_clip_21",
+      "video_path": "clips\\16. Political Special 020516_clip_21.mp4",
+      "start_time_seconds": 600.0,
+      "end_time_seconds": 630.0
+    },
+    {
+      "clip_id": "16. Political Special 020516_clip_22",
+      "video_path": "clips\\16. Political Special 020516_clip_22.mp4",
+      "start_time_seconds": 630.0,
+      "end_time_seconds": 660.0
+    },
+    {
+      "clip_id": "24. Fairtrade Campaign 070616_clip_8",
+      "video_path": "clips\\24. Fairtrade Campaign 070616_clip_8.mp4",
+      "start_time_seconds": 210.0,
+      "end_time_seconds": 240.0
+    }
+  ]
+},
+ {
+  "query_id": "Q20",
+  "query": "A male guest being interviewed in a television studio",
+  "ground_truth": [
+    "34. Prince's Trust 010816_clip_13",
+    "5. Listen to our young leaders - 4 Corners Festival 040216_clip_11",
+    "18. Fergal McFerran 100516_clip_7",
+    "24. Fairtrade Campaign 070616_clip_9"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "34. Prince's Trust 010816_clip_13",
+      "video_path": "clips\\34. Prince's Trust 010816_clip_13.mp4",
+      "start_time_seconds": 360.0,
+      "end_time_seconds": 390.0
+    },
+    {
+      "clip_id": "5. Listen to our young leaders - 4 Corners Festival 040216_clip_11",
+      "video_path": "clips\\5. Listen to our young leaders - 4 Corners Festival 040216_clip_11.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    },
+    {
+      "clip_id": "18. Fergal McFerran 100516_clip_7",
+      "video_path": "clips\\18. Fergal McFerran 100516_clip_7.mp4",
+      "start_time_seconds": 180.0,
+      "end_time_seconds": 210.0
+    },
+    {
+      "clip_id": "24. Fairtrade Campaign 070616_clip_9",
+      "video_path": "clips\\24. Fairtrade Campaign 070616_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    }
+  ]
+},
+
+
+
+
+  {
+    "query_id": "Q21",
+    "query": "People being interviewed among cemetery graves",
+    "ground_truth": [
+      "19. George McBride 100516_clip_4"
+      
+    ],
+    "relevant_clips": [
+      
+      {
+        "clip_id": "19. George McBride 100516_clip_4",
+        "video_path": "clips\\19. George McBride 100516_clip_4.mp4",
+        "start_time_seconds": 90.0,
+        "end_time_seconds": 120.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q22",
+  "query": "Women being interviewed at a cemetery or memorial",
+  "ground_truth": [
+    "47. Millions Missing Demonstration 290916_clip_2",
+    "19. George McBride 100516_clip_4",
+    "19. George McBride 100516_clip_3"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "47. Millions Missing Demonstration 290916_clip_2",
+      "video_path": "clips\\47. Millions Missing Demonstration 290916_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    },
+    {
+      "clip_id": "19. George McBride 100516_clip_4",
+      "video_path": "clips\\19. George McBride 100516_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    },
+    {
+      "clip_id": "19. George McBride 100516_clip_3",
+      "video_path": "clips\\19. George McBride 100516_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    }
+  ]
+},
+  {
+    "query_id": "Q23",
+    "query": "Women being interviewed beside writers festival displays",
+    "ground_truth": [
+      "20. Writers on Writers Festival 100516_clip_3",
+      "20. Writers on Writers Festival 100516_clip_8"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "20. Writers on Writers Festival 100516_clip_3",
+        "video_path": "clips\\20. Writers on Writers Festival 100516_clip_3.mp4",
+        "start_time_seconds": 60.0,
+        "end_time_seconds": 90.0
+      },
+      
+      {
+        "clip_id": "20. Writers on Writers Festival 100516_clip_8",
+        "video_path": "clips\\20. Writers on Writers Festival 100516_clip_8.mp4",
+        "start_time_seconds": 210.0,
+        "end_time_seconds": 240.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q24",
+  "query": "People gathered at an outdoor festival launch",
+  "ground_truth": [
+    "28. Feile an Phobail launch 010716_clip_10",
+    "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_6",
+    "17. Belfast Telegraph 100516_clip_9",
+    "7. Adrian Ismay Vigil 230316_clip_2"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "28. Feile an Phobail launch 010716_clip_10",
+      "video_path": "clips\\28. Feile an Phobail launch 010716_clip_10.mp4",
+      "start_time_seconds": 270.0,
+      "end_time_seconds": 300.0
+    },
+    {
+      "clip_id": "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_6",
+      "video_path": "clips\\33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_6.mp4",
+      "start_time_seconds": 150.0,
+      "end_time_seconds": 180.0
+    },
+    {
+      "clip_id": "17. Belfast Telegraph 100516_clip_9",
+      "video_path": "clips\\17. Belfast Telegraph 100516_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    },
+    {
+      "clip_id": "7. Adrian Ismay Vigil 230316_clip_2",
+      "video_path": "clips\\7. Adrian Ismay Vigil 230316_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    }
+  ]
+},
+ {
+  "query_id": "Q25",
+  "query": "People standing near graves",
+  "ground_truth": [
+    "19. George McBride 100516_clip_8",
+    "19. George McBride 100516_clip_2"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "19. George McBride 100516_clip_8",
+      "video_path": "clips\\19. George McBride 100516_clip_8.mp4",
+      "start_time_seconds": 210.0,
+      "end_time_seconds": 240.0
+    },
+    {
+      "clip_id": "19. George McBride 100516_clip_2",
+      "video_path": "clips\\19. George McBride 100516_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    }
+  ]
+},
+
+  {
+    "query_id": "Q26",
+    "query": "Historic military artifacts displayed in a museum exhibition",
+    "ground_truth": [
+      
+      "31. Lilly and the Poppy Exhibition 200716_clip_6",
+      "31. Lilly and the Poppy Exhibition 200716_clip_9"
+     
+      
+    ],
+    "relevant_clips": [
+      
+      {
+        "clip_id": "31. Lilly and the Poppy Exhibition 200716_clip_6",
+        "video_path": "clips\\31. Lilly and the Poppy Exhibition 200716_clip_6.mp4",
+        "start_time_seconds": 150.0,
+        "end_time_seconds": 180.0
+      },
+      {
+        "clip_id": "31. Lilly and the Poppy Exhibition 200716_clip_9",
+        "video_path": "clips\\31. Lilly and the Poppy Exhibition 200716_clip_9.mp4",
+        "start_time_seconds": 240.0,
+        "end_time_seconds": 270.0
+      }
+      
+    ]
+  },
+
+ {
+  "query_id": "Q27",
+  "query": "A close-up view of a statue or public monument",
+  "ground_truth": [
+    "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_10",
+    "25. Blue Plaque Unveiling 010716_clip_8"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_10",
+      "video_path": "clips\\33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_10.mp4",
+      "start_time_seconds": 270.0,
+      "end_time_seconds": 300.0
+    },
+    {
+      "clip_id": "25. Blue Plaque Unveiling 010716_clip_8",
+      "video_path": "clips\\25. Blue Plaque Unveiling 010716_clip_8.mp4",
+      "start_time_seconds": 210.0,
+      "end_time_seconds": 240.0
+    }
+  ]
+},
+  {
+    "query_id": "Q28",
+    "query": "Children on a football field",
+    "ground_truth": [
+      "35. Campa Chormaic 010816_clip_1",
+      "35. Campa Chormaic 010816_clip_11",
+      "35. Campa Chormaic 010816_clip_10"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "35. Campa Chormaic 010816_clip_1",
+        "video_path": "clips\\35. Campa Chormaic 010816_clip_1.mp4",
+        "start_time_seconds": 0.0,
+        "end_time_seconds": 30.0
+      },
+      
+      {
+        "clip_id": "35. Campa Chormaic 010816_clip_11",
+        "video_path": "clips\\35. Campa Chormaic 010816_clip_11.mp4",
+        "start_time_seconds": 300.0,
+        "end_time_seconds": 330.0
+      },
+      {
+        "clip_id": "35. Campa Chormaic 010816_clip_10",
+        "video_path": "clips\\35. Campa Chormaic 010816_clip_10.mp4",
+        "start_time_seconds": 300.0,
+        "end_time_seconds": 330.0
+      }
+    ]
+  },
+  {
+    "query_id": "Q29",
+    "query": "Cars waiting in heavy city traffic and road junctions",
+    "ground_truth": [
+    
+      "42. Traffic Congestion in Belfast City Centre 010916_clip_8"
+    ],
+    "relevant_clips": [
+    
+      {
+        "clip_id": "42. Traffic Congestion in Belfast City Centre 010916_clip_8",
+        "video_path": "clips\\42. Traffic Congestion in Belfast City Centre 010916_clip_8.mp4",
+        "start_time_seconds": 210.0,
+        "end_time_seconds": 240.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q30",
+  "query": "A comedian performing on stage in front of an audience",
+  "ground_truth": [
+    "10. Jacobin Launch 230316_clip_2",
+    "28. Feile an Phobail launch 010716_clip_4"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "10. Jacobin Launch 230316_clip_2",
+      "video_path": "clips\\10. Jacobin Launch 230316_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    },
+    {
+      "clip_id": "28. Feile an Phobail launch 010716_clip_4",
+      "video_path": "clips\\28. Feile an Phobail launch 010716_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    }
+  ]
+},
+  {
+  "query_id": "Q31",
+  "query": "Workers inspecting a residential construction site",
+  "ground_truth": [
+    "32. Social Housing 010816_clip_11",
+    "32. Social Housing 010816_clip_3"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "32. Social Housing 010816_clip_11",
+      "video_path": "clips\\32. Social Housing 010816_clip_11.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    },
+    {
+      "clip_id": "32. Social Housing 010816_clip_3",
+      "video_path": "clips\\32. Social Housing 010816_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    }
+  ]
+},
+
+
+
+  {
+    "query_id": "Q32",
+    "query": "Children playing near residential homes",
+    "ground_truth": [
+      "32. Social Housing 010816_clip_9"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "32. Social Housing 010816_clip_9",
+        "video_path": "clips\\32. Social Housing 010816_clip_9.mp4",
+        "start_time_seconds": 240.0,
+        "end_time_seconds": 270.0
+      }
+    ]
+  },
+  {
+    "query_id": "Q33",
+    "query": "Families walking through a housing estate",
+    "ground_truth": [
+      "32. Social Housing 010816_clip_9"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "32. Social Housing 010816_clip_9",
+        "video_path": "clips\\32. Social Housing 010816_clip_9.mp4",
+        "start_time_seconds": 240.0,
+        "end_time_seconds": 270.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q34",
+  "query": "A man speaking during a television interview",
+  "ground_truth": [
+    "3. Fire Brigades Union Northern Ireland - Threats to the Fire and Rescue Service 280116_clip_15",
+    "18. Fergal McFerran 100516_clip_6",
+    "34. Prince's Trust 010816_clip_13",
+    "24. Fairtrade Campaign 070616_clip_3"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "3. Fire Brigades Union Northern Ireland - Threats to the Fire and Rescue Service 280116_clip_15",
+      "video_path": "clips\\3. Fire Brigades Union Northern Ireland - Threats to the Fire and Rescue Service 280116_clip_15.mp4",
+      "start_time_seconds": 420.0,
+      "end_time_seconds": 450.0
+    },
+    {
+      "clip_id": "18. Fergal McFerran 100516_clip_6",
+      "video_path": "clips\\18. Fergal McFerran 100516_clip_6.mp4",
+      "start_time_seconds": 150.0,
+      "end_time_seconds": 180.0
+    },
+    {
+      "clip_id": "34. Prince's Trust 010816_clip_13",
+      "video_path": "clips\\34. Prince's Trust 010816_clip_13.mp4",
+      "start_time_seconds": 360.0,
+      "end_time_seconds": 390.0
+    },
+    {
+      "clip_id": "24. Fairtrade Campaign 070616_clip_3",
+      "video_path": "clips\\24. Fairtrade Campaign 070616_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    }
+  ]
+},
+  {
+  "query_id": "Q35",
+  "query": "Children taking part in activities at an indoor festival",
+  "ground_truth": [
+    "1. Launch of Belfast Children's Festival 2016 280116_clip_9",
+    "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_15"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "1. Launch of Belfast Children's Festival 2016 280116_clip_9",
+      "video_path": "clips\\1. Launch of Belfast Children's Festival 2016 280116_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    },
+    {
+      "clip_id": "6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_15",
+      "video_path": "clips\\6. Pupils Challenge Racism - Integrated Education Fund 040216_clip_15.mp4",
+      "start_time_seconds": 420.0,
+      "end_time_seconds": 450.0
+    }
+  ]
+},
+  {
+  "query_id": "Q36",
+  "query": "People speaking inside an art gallery",
+  "ground_truth": [
+    "38. ArtisAnn Art Gallery 090816_clip_1"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "38. ArtisAnn Art Gallery 090816_clip_1",
+      "video_path": "clips\\38. ArtisAnn Art Gallery 090816_clip_1.mp4",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 30.0
+    }
+   
+  ]
+},
+  {
+  "query_id": "Q37",
+  "query": "Historical items displayed inside an exhibition",
+  "ground_truth": [
+    "31. Lilly and the Poppy Exhibition 200716_clip_10",
+    "31. Lilly and the Poppy Exhibition 200716_clip_3"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "31. Lilly and the Poppy Exhibition 200716_clip_10",
+      "video_path": "clips\\31. Lilly and the Poppy Exhibition 200716_clip_10.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 30.0
+    },
+    
+    {
+      "clip_id": "31. Lilly and the Poppy Exhibition 200716_clip_3",
+      "video_path": "clips\\31. Lilly and the Poppy Exhibition 200716_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    }
+  ]
+},
+  {
+  "query_id": "Q38",
+  "query": "People at an outdoor sports field during summer",
+  "ground_truth": [
+    "35. Campa Chormaic 010816_clip_1",
+    "35. Campa Chormaic 010816_clip_8"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "35. Campa Chormaic 010816_clip_1",
+      "video_path": "clips\\35. Campa Chormaic 010816_clip_1.mp4",
+      "start_time_seconds": 0.0,
+      "end_time_seconds": 30.0
+    },
+    {
+      "clip_id": "35. Campa Chormaic 010816_clip_8",
+      "video_path": "clips\\35. Campa Chormaic 010816_clip_8.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    }
+  ]
+},
+
+
+  {
+    "query_id": "Q39",
+    "query": "A coach walking with a young football player",
+    "ground_truth": [
+      "35. Campa Chormaic 010816_clip_7"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "35. Campa Chormaic 010816_clip_7",
+        "video_path": "clips\\35. Campa Chormaic 010816_clip_7.mp4",
+        "start_time_seconds": 180.0,
+        "end_time_seconds": 210.0
+      }
+    ]
+  },
+ 
+{
+  "query_id": "Q39",
+  "query": "Close-up shots of people during interviews",
+  "ground_truth": [
+    "30. Social Policy Association 200716_clip_11",
+    "13. Reading Rooms at Open University 150416_clip_3",
+    "50. WHAT YOU SAY MATTERS Youth Forum 311016_clip_6"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "30. Social Policy Association 200716_clip_11",
+      "video_path": "clips\\30. Social Policy Association 200716_clip_11.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    },
+    {
+      "clip_id": "13. Reading Rooms at Open University 150416_clip_3",
+      "video_path": "clips\\13. Reading Rooms at Open University 150416_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    },
+    {
+      "clip_id": "50. WHAT YOU SAY MATTERS Youth Forum 311016_clip_6",
+      "video_path": "clips\\50. WHAT YOU SAY MATTERS Youth Forum 311016_clip_6.mp4",
+      "start_time_seconds": 150.0,
+      "end_time_seconds": 180.0
+    }
+  ]
+},
+  {
+    "query_id": "Q41",
+    "query": "A close-up of a bronze boxer sculpture",
+    "ground_truth": [
+      "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_6"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_6",
+        "video_path": "clips\\33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_6.mp4",
+        "start_time_seconds": 150.0,
+        "end_time_seconds": 180.0
+      }
+    ]
+  },
+  {
+    "query_id": "Q42",
+    "query": "A close-up of a historical battle map",
+    "ground_truth": [
+      "31. Lilly and the Poppy Exhibition 200716_clip_8"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "31. Lilly and the Poppy Exhibition 200716_clip_8",
+        "video_path": "clips\\31. Lilly and the Poppy Exhibition 200716_clip_8.mp4",
+        "start_time_seconds": 210.0,
+        "end_time_seconds": 240.0
+      }
+    ]
+  },
+  {
+    "query_id": "Q43",
+    "query": "A close-up of a rusted metal fence",
+    "ground_truth": [
+      "43. Market Tunnels 050916_clip_4"
+    ],
+    "relevant_clips": [
+      {
+        "clip_id": "43. Market Tunnels 050916_clip_4",
+        "video_path": "clips\\43. Market Tunnels 050916_clip_4.mp4",
+        "start_time_seconds": 90.0,
+        "end_time_seconds": 120.0
+      }
+    ]
+  },
+  {
+  "query_id": "Q44",
+  "query": "A close-up of a memorial headstone",
+  "ground_truth": [
+    "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_9",
+    "19. George McBride 100516_clip_12"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_9",
+      "video_path": "clips\\33. Sculpture celebrating World Boxer, Rinty Monaghan 010816_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    },
+    {
+      "clip_id": "19. George McBride 100516_clip_12",
+      "video_path": "clips\\19. George McBride 100516_clip_12.mp4",
+      "start_time_seconds": 330.0,
+      "end_time_seconds": 360.0
+    }
+  ]
+},
+ {
+  "query_id": "Q45",
+  "query": "Cars driving through busy city streets during daytime",
+  "ground_truth": [
+    "42. Traffic Congestion in Belfast City Centre 010916_clip_3",
+    "42. Traffic Congestion in Belfast City Centre 010916_clip_4"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "42. Traffic Congestion in Belfast City Centre 010916_clip_3",
+      "video_path": "clips\\42. Traffic Congestion in Belfast City Centre 010916_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    },
+    {
+      "clip_id": "42. Traffic Congestion in Belfast City Centre 010916_clip_4",
+      "video_path": "clips\\42. Traffic Congestion in Belfast City Centre 010916_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    }
+    
+  ]
+},
+  {
+  "query_id": "Q46",
+  "query": "Close-up shots of historical objects in an exhibition",
+  "ground_truth": [
+    
+    "31. Lilly and the Poppy Exhibition 200716_clip_3"
+  ],
+  "relevant_clips": [
+   
+    {
+      "clip_id": "31. Lilly and the Poppy Exhibition 200716_clip_3",
+      "video_path": "clips\\31. Lilly and the Poppy Exhibition 200716_clip_3.mp4",
+      "start_time_seconds": 60.0,
+      "end_time_seconds": 90.0
+    }
+  ]
+},
+  {
+  "query_id": "Q47",
+  "query": "People taking part in an outdoor parade during spring",
+  "ground_truth": [
+    "15. May Day Parade 020516_clip_10"
+   
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "15. May Day Parade 020516_clip_10",
+      "video_path": "clips\\15. May Day Parade 020516_clip_10.mp4",
+      "start_time_seconds": 300.0,
+      "end_time_seconds": 330.0
+    }
+   
+  ]
+},
+  {
+  "query_id": "Q48",
+  "query": "Views around an old railway bridge and tunnel area",
+  "ground_truth": [
+    "43. Market Tunnels 050916_clip_2",
+    "43. Market Tunnels 050916_clip_13"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "43. Market Tunnels 050916_clip_2",
+      "video_path": "clips\\43. Market Tunnels 050916_clip_2.mp4",
+      "start_time_seconds": 30.0,
+      "end_time_seconds": 60.0
+    },
+    {
+      "clip_id": "43. Market Tunnels 050916_clip_13",
+      "video_path": "clips\\43. Market Tunnels 050916_clip_13.mp4",
+      "start_time_seconds": 180.0,
+      "end_time_seconds": 210.0
+    }
+  ]
+},
+ {
+  "query_id": "Q49",
+  "query": "Women speaking and answering questions in a television studio",
+  "ground_truth": [
+    "37. Clandeboye Festival 090816_clip_5",
+    "41. Healthy Lunches 010916_clip_4",
+    "11. Poor Mental Health on Peace Lines 150416_clip_9"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "37. Clandeboye Festival 090816_clip_5",
+      "video_path": "clips\\37. Clandeboye Festival 090816_clip_5.mp4",
+      "start_time_seconds": 120.0,
+      "end_time_seconds": 150.0
+    },
+    {
+      "clip_id": "41. Healthy Lunches 010916_clip_4",
+      "video_path": "clips\\41. Healthy Lunches 010916_clip_4.mp4",
+      "start_time_seconds": 90.0,
+      "end_time_seconds": 120.0
+    },
+    {
+      "clip_id": "11. Poor Mental Health on Peace Lines 150416_clip_9",
+      "video_path": "clips\\11. Poor Mental Health on Peace Lines 150416_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    }
+  ]
+},
+  {
+  "query_id": "Q50",
+  "query": "Children playing near houses",
+  "ground_truth": [
+    "35. Campa Chormaic 010816_clip_12",
+    "32. Social Housing 010816_clip_9"
+  ],
+  "relevant_clips": [
+    {
+      "clip_id": "35. Campa Chormaic 010816_clip_12",
+      "video_path": "clips\\35. Campa Chormaic 010816_clip_12.mp4",
+      "start_time_seconds": 330.0,
+      "end_time_seconds": 360.0
+    },
+    {
+      "clip_id": "32. Social Housing 010816_clip_9",
+      "video_path": "clips\\32. Social Housing 010816_clip_9.mp4",
+      "start_time_seconds": 240.0,
+      "end_time_seconds": 270.0
+    }
+  ]
+}
+
+]
+
+
+
+
+
+
+
+
+
